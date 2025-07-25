@@ -1,11 +1,10 @@
 # 🥗 Food Waste Management System
 
-This is **my final year project**, built as a complete web-based solution to reduce food wastage and help feed the needy. It creates a platform that connects food donors, NGOs, and delivery persons for efficient collection and distribution of excess food.
+This is **my final year project**, built as a complete web-based solution to reduce food wastage and help feed the needy. It creates a platform that connects food donors, NGOs, and delivery personnel for efficient collection and distribution of excess food.
 
 The system is developed using **PHP**, **HTML/CSS/JavaScript**, and **MySQL**, and includes features like donation tracking, user management, delivery coordination, and a chatbot for support.
 
 ---
-
 
 ## 🚀 Features
 
