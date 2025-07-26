@@ -33,65 +33,61 @@ A **final year Computer Science project** developed to reduce food wastage and h
 
 ## 📸 Demo Screenshots
 
-Here are some key screenshots from the **Food Waste Management System**:
+<h2>🌐 Home Page</h2>
+<img src="Demo_Screenshots/Home_page.png" alt="Home Page">
+<img src="Demo_Screenshots/Home_page2.png" alt="Home Page 2">
+<img src="Demo_Screenshots/Home_page3.png" alt="Home Page 3">
 
-### 🌐 Home Page
-![Home Page](Demo_Screnshoots/Home_page.png)  
-![Home Page 2](Demo_Screnshoots/Home_page2.png)  
-![Home Page 3](Demo_Screnshoots/Home_page3.png)
+<h2>🙍‍♂️ User Side</h2>
+<h3>Signup</h3>
+<img src="Demo_Screenshots/User_Signup.png" alt="User Signup">
+<h3>Login</h3>
+<img src="Demo_Screenshots/user_login.png" alt="User Login">
+<h3>Profile</h3>
+<img src="Demo_Screenshots/User_Profile.png" alt="User Profile">
+<h3>Donation Form</h3>
+<img src="Demo_Screenshots/Donate_form.png" alt="Donation Form">
+<h3>Donation Placed</h3>
+<img src="Demo_Screenshots/Donatation_Placed.png" alt="Donation Placed">
 
-### 🙍‍♂️ User Side
-- **Signup**  
-  ![User Signup](Demo_Screnshoots/User_Signup.png)
-- **Login**  
-  ![User Login](Demo_Screnshoots/user_login.png)
-- **Profile**  
-  ![User Profile](Demo_Screnshoots/User_Profile.png)
-- **Donation Form**  
-  ![Donate Form](Demo_Screnshoots/Donate_form.png)
-- **Donation Placed**  
-  ![Donation Placed](Demo_Screnshoots/Donatation_Placed.png)
+<h2>👨‍💼 Admin Side</h2>
+<h3>Signup</h3>
+<img src="Demo_Screenshots/Admin_Signup.png" alt="Admin Signup">
+<h3>Login</h3>
+<img src="Demo_Screenshots/Admin_Login.png" alt="Admin Login">
+<h3>Dashboard</h3>
+<img src="Demo_Screenshots/Admin_Dashboard.png" alt="Admin Dashboard">
+<h3>Analytics</h3>
+<img src="Demo_Screenshots/Admin_Analytics_Page.png" alt="Admin Analytics 1">
+<img src="Demo_Screenshots/Admin_Analytics_Page2.png" alt="Admin Analytics 2">
 
-### 👨‍💼 Admin Side
-- **Signup**  
-  ![Admin Signup](Demo_Screnshoots/Admin_Signup.png)
-- **Login**  
-  ![Admin Login](Demo_Screnshoots/Admin_Login.png)
-- **Dashboard**  
-  ![Admin Dashboard](Demo_Screnshoots/Admin_Dashboard.png)
-- **Analytics**  
-  ![Analytics 1](Demo_Screnshoots/Admin_Analytics_Page.png)  
-  ![Analytics 2](Demo_Screnshoots/Admin_Analytics_Page2.png)
+<h2>🚚 Delivery Person</h2>
+<h3>Signup</h3>
+<img src="Demo_Screenshots/Delivery_Person_Signup.png" alt="Delivery Signup">
+<h3>Login</h3>
+<img src="Demo_Screenshots/Delivery_Login.png" alt="Delivery Login">
+<h3>Orders</h3>
+<img src="Demo_Screenshots/Delivery_Person_Orders.png" alt="Orders">
+<img src="Demo_Screenshots/Order_is_assigned_to_deliveryperson.png" alt="Order Assigned">
+<img src="Demo_Screenshots/Donation_is_assigned_to_Delivery_Person.png" alt="Donation Assigned">
+<h3>Location View</h3>
+<img src="Demo_Screenshots/Delivery_Person_Location.png" alt="Delivery Location">
 
-### 🚚 Delivery Person
-- **Signup**  
-  ![Delivery Signup](Demo_Screnshoots/Delivery_Person_Signup.png)
-- **Login**  
-  ![Delivery Login](Demo_Screnshoots/Delivery_Login.png)
-- **Orders**  
-  ![Orders](Demo_Screnshoots/Delivery_Person_Orders.png)
-  ![Order Assigned](Demo_Screnshoots/Order_is_assigned_to_deliveryperson.png)
-  ![Donation Assigned](Demo_Screnshoots/Donation_is_assigned_to_Delivery_Person.png)
-- **Location View**  
-  ![Location](Demo_Screnshoots/Delivery_Person_Location.png)
+<h2>💬 Chatbot</h2>
+<img src="Demo_Screenshots/Chatbot_page.png" alt="Chatbot">
 
-### 💬 Chatbot
-![Chatbot](Demo_Screnshoots/Chatbot_page.png)
+<h2>📬 Feedback</h2>
+<img src="Demo_Screenshots/Feedback page.png" alt="Feedback">
 
-### 📬 Feedback
-![Feedback](Demo_Screnshoots/Feedback%20page.png)
+<h2>📞 Contact & About</h2>
+<img src="Demo_Screenshots/Contact_Page.png" alt="Contact Page">
+<img src="Demo_Screenshots/About_page.png" alt="About Page">
 
-### 📞 Contact & About
-![Contact Page](Demo_Screnshoots/Contact_Page.png)  
-![About Page](Demo_Screnshoots/About_page.png)
+<h2>🧩 System Overview</h2>
+<img src="Demo_Screenshots/Food-waste-mangement-system.png" alt="System Overview">
 
-### 🧩 System Overview
-![System Overview](Demo_Screnshoots/Food-waste-mangement-system.png)
-
-### ❗ Unassigned Donations
-![Unassigned](Demo_Screnshoots/Unassigned_Donations.png)
-
----
+<h2>❗ Unassigned Donations</h2>
+<img src="Demo_Screenshots/Unassigned_Donations.png" alt="Unassigned Donations">
 
 </p>
     <h3>User </h3>
@@ -121,10 +117,6 @@ Here are some key screenshots from the **Food Waste Management System**:
        <li> Create a database</li>
        <li>Import demo.sql file(inside database folder)</li>
        <li> Run the script http://localhost/folderName </li> </ol>
-
-
-
-
 
 ## 🧪 How to Run the Project
 
